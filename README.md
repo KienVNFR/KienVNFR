@@ -2,10 +2,10 @@
 ## I'm currently studying at IP Paris France for Master 1 I'm an Engineer in AI, Backend, DevOps  
 
 ## My interest: 
-1. <img src="https://github.com/KienVNFR/KienVNFR/assets/110092013/e6328f3a-4dbd-4d55-abfe-7226621de7fb" width="40" height="40" alt="image"> Machine Learning
-2. <img src="https://github.com/KienVNFR/classe/blob/main/artificial-intelligence.png" width="40" height="40" alt="image"> Deep Learning
-3. <img src="https://github.com/KienVNFR/KienVNFR/assets/110092013/26e71e1e-2f26-43d7-a258-ffd934d9a462" width="40" height="40" alt="image"> Optimization and Quantization Model
-4. <img src="https://github.com/KienVNFR/classe/blob/main/computer.png" width="40" height="40" alt="image"> System computing 
+- <img src="https://github.com/KienVNFR/KienVNFR/assets/110092013/e6328f3a-4dbd-4d55-abfe-7226621de7fb" width="30" height="30" alt="image"> __Machine Learning__
+- <img src="https://github.com/KienVNFR/classe/blob/main/artificial-intelligence.png" width="30" height="30" alt="image"> __Deep Learning__
+- <img src="https://github.com/KienVNFR/KienVNFR/assets/110092013/26e71e1e-2f26-43d7-a258-ffd934d9a462" width="30" height="30" alt="image"> __Optimization and Quantization Model__
+- <img src="https://github.com/KienVNFR/classe/blob/main/computer.png" width="30" height="30" alt="image"> __System computing__
 
 ## My Experiment: 
 
