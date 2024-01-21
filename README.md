@@ -3,9 +3,9 @@ I'm currently studying at IP Paris France for Master 1 I'm an Engineer in AI, Ba
 
 My interest: 
 
-<img src="[https://github.com/KienVNFR/KienVNFR/assets/110092013/57f29fcd-6ee2-49da-a392-f826d77d3594]" width="18" height="18" alt="image">  Machine learning 
-<img src="[https://github.com/KienVNFR/KienVNFR/assets/110092013/14243d27-b685-4897-8383-589135b9165c]" width="18" height="18" alt="image">  Deep Learning 
-https://github.com/KienVNFR/KienVNFR/assets/110092013/14243d27-b685-4897-8383-589135b9165c
+![Machine Learning](https://github.com/KienVNFR/KienVNFR/blob/main/assets/110092013/57f29fcd-6ee2-49da-a392-f826d77d3594.png)
+![Deep Learning](https://github.com/KienVNFR/KienVNFR/blob/main/assets/110092013/14243d27-b685-4897-8383-589135b9165c.png)
+
 Optimization and Quantization Model 
 System computing 
 
