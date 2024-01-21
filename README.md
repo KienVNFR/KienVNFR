@@ -7,7 +7,7 @@
 - <img src="https://github.com/KienVNFR/KienVNFR/assets/110092013/26e71e1e-2f26-43d7-a258-ffd934d9a462" width="30" height="30" alt="image"> __Optimization and Quantization Model__
 - <img src="https://github.com/KienVNFR/classe/blob/main/computer.png" width="30" height="30" alt="image"> __System computing__
 
-## My Experiment: 
+## My Experiments: 
 
 ## Server AI
 <a href="https://onnx.ai/">
@@ -69,7 +69,7 @@
   <img src="https://github.com/KienVNFR/KienVNFR/assets/110092013/63ac3bc3-cd74-434a-8e0e-c4657c01ee6d" width="170" height="70" alt="image">
 </a> 
 
-## Embedd devide 
+## Embedded  
 
 <a href="https://xgboost.readthedocs.io/en/stable/">
   <img src="https://github.com/KienVNFR/KienVNFR/assets/110092013/edf1b6c7-5d0e-400e-ac3e-3fce430bfae9" width="170" height="70" alt="image">
