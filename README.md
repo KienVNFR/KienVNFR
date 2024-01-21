@@ -1,4 +1,9 @@
-## Hi there 👋 I'm Kien 
+## Hi there 👋 I'm Kien I love Peach <img src="https://github.com/KienVNFR/KienVNFR/assets/110092013/3b4261d7-91ff-41c4-9c42-790e64f2869c" width="30" height="30" alt="image"> <img src="https://github.com/KienVNFR/KienVNFR/assets/110092013/ccda9aa1-6db7-4492-b36c-2eeedd53ccce" width="30" height="30" alt="image"> <img src="https://github.com/KienVNFR/KienVNFR/assets/110092013/e9bd93a2-cc8d-44c0-be43-99ae5e15baec" width="50" height="40" alt="image"> <img src="https://github.com/KienVNFR/KienVNFR/assets/110092013/59c9eb80-970a-4b3c-9fc7-9a8cc071bf2f" width="30" height="30" alt="image"><img src="https://github.com/KienVNFR/KienVNFR/assets/110092013/6bf01b60-ad59-4178-8948-0b647bc42f52" width="30" height="30" alt="image"><img src="https://github.com/KienVNFR/KienVNFR/assets/110092013/e0c1a93a-fee1-4acf-9564-09bd41c1ae1b" width="30" height="30" alt="image">
+
+
+
+
+
 ## I'm currently studying at IP Paris France for Master 1 an Engineer in AI, Backend, DevOps  
 
 ## My interest: 
