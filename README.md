@@ -5,6 +5,7 @@ My interest:
 
 <img src="[https://github.com/KienVNFR/KienVNFR/assets/110092013/57f29fcd-6ee2-49da-a392-f826d77d3594]" width="18" height="18" alt="image">  Machine learning 
 <img src="[https://github.com/KienVNFR/KienVNFR/assets/110092013/14243d27-b685-4897-8383-589135b9165c]" width="18" height="18" alt="image">  Deep Learning 
+https://github.com/KienVNFR/KienVNFR/assets/110092013/14243d27-b685-4897-8383-589135b9165c
 Optimization and Quantization Model 
 System computing 
 
