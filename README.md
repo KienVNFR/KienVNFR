@@ -3,7 +3,7 @@ I'm currently studying at IP Paris France for Master 1 I'm an Engineer in AI, Ba
 
 My interest: 
 
-<img src="[https://github.com/KienVNFR/KienVNFR/assets/110092013/57f29fcd-6ee2-49da-a392-f826d77d3594]" width="18" height="18" alt="image"> Machine learning 
+<img src="[https://github.com/KienVNFR/KienVNFR/assets/110092013/57f29fcd-6ee2-49da-a392-f826d77d3594]" width="18" height="18" alt="image">  Machine learning 
 
 Deep Learning 
 Optimization and Quantization Model 
