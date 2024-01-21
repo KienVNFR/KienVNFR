@@ -9,7 +9,7 @@
 
 ## My Experiments: 
 
-
+### Click Icon to know more !!!!!!!!!!!
 
 ## Server AI
 - [<img src="https://github.com/KienVNFR/KienVNFR/assets/110092013/39cf3a70-425b-49d8-b805-faca0ab3c1e3" width="30" height="30" alt="ONNX">](https://onnx.ai/) __ONNX__
@@ -22,49 +22,23 @@
 
 
 ## DevOps
+- [<img src="https://github.com/KienVNFR/KienVNFR/assets/110092013/64e5791d-227b-4706-bb53-a2a4ea4f8f9f" width="30" height="30" alt="SK">](https://kubernetes.io/) __K8s__
+- [<img src="https://github.com/KienVNFR/KienVNFR/assets/110092013/25eb4bf9-8a6d-41be-9096-91507f12bcdb" width="30" height="30" alt="SK">](https://grafana.com/products/cloud/?src=ggl-s&mdm=cpc&camp=b-grafana-exac-emea&cnt=118483912276&trm=grafana&device=c&gad_source=1&gclid=Cj0KCQiAnrOtBhDIARIsAFsSe50htb8fSpnrGRN6raOhQuBldjmYCihLTGftPp0sQFjcw9x5BdtuCFMaArJKEALw_wcB) __Grafana__
+- [<img src="https://github.com/KienVNFR/KienVNFR/assets/110092013/304e68e2-4427-4795-bfef-294672ec0e00" width="30" height="30" alt="SK">](https://www.docker.com/) __Docker__
+- [<img src="https://github.com/KienVNFR/KienVNFR/assets/110092013/e20417c3-14d0-490b-b66d-6c6b6ba3aea6" width="30" height="30" alt="SK">]([https://www.docker.com/](https://aws.amazon.com/free/?gclid=Cj0KCQiAnrOtBhDIARIsAFsSe521ZlnTcDjMyEF1UDlDwSHgxUd0glgah83o_KgdI2q_44hhuY2clvAaApiUEALw_wcB&trk=7214f2bf-dcfb-4d46-8a27-608345ad6b51&sc_channel=ps&ef_id=Cj0KCQiAnrOtBhDIARIsAFsSe521ZlnTcDjMyEF1UDlDwSHgxUd0glgah83o_KgdI2q_44hhuY2clvAaApiUEALw_wcB:G:s&s_kwcid=AL!4422!3!454820903985!e!!g!!amazon%20web%20services!10776417550!106552168976&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all)) __AWS__
+- [<img src="https://github.com/KienVNFR/KienVNFR/assets/110092013/4df3dd2a-9244-4f93-89ac-5a3fc1d9b66b" width="30" height="30" alt="SK">](https://prometheus.io/) __Prometheus.io__
 
-<a href="https://kubernetes.io/">
-  <img src="https://github.com/KienVNFR/KienVNFR/assets/110092013/414c03ff-ad70-4564-a142-28dd832a4b6a" width="140" height="70" alt="image">
-</a> 
 
-<a href="https://grafana.com/products/cloud/?src=ggl-s&mdm=cpc&camp=b-grafana-exac-emea&cnt=118483912276&trm=grafana&device=c&gad_source=1&gclid=Cj0KCQiAnrOtBhDIARIsAFsSe50htb8fSpnrGRN6raOhQuBldjmYCihLTGftPp0sQFjcw9x5BdtuCFMaArJKEALw_wcB">
-  <img src="https://github.com/KienVNFR/KienVNFR/assets/110092013/be0d0359-a434-4e62-8eb2-2293732be57d" width="140" height="70" alt="image">
-</a>
-
-<a href="https://www.docker.com/">
-  <img src="https://github.com/KienVNFR/KienVNFR/assets/110092013/2f63e8b8-e841-4707-b8a1-c5161cbfa87a" width="170" height="70" alt="image">
-</a> 
-
-<a href="https://aws.amazon.com/free/?gclid=Cj0KCQiAnrOtBhDIARIsAFsSe521ZlnTcDjMyEF1UDlDwSHgxUd0glgah83o_KgdI2q_44hhuY2clvAaApiUEALw_wcB&trk=7214f2bf-dcfb-4d46-8a27-608345ad6b51&sc_channel=ps&ef_id=Cj0KCQiAnrOtBhDIARIsAFsSe521ZlnTcDjMyEF1UDlDwSHgxUd0glgah83o_KgdI2q_44hhuY2clvAaApiUEALw_wcB:G:s&s_kwcid=AL!4422!3!454820903985!e!!g!!amazon%20web%20services!10776417550!106552168976&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all">
-  <img src="https://github.com/KienVNFR/KienVNFR/assets/110092013/51b3e7c7-c111-4763-84cb-865541076895" width="170" height="70" alt="image">
-</a> 
-
-<a href="https://prometheus.io/">
-  <img src="https://github.com/KienVNFR/KienVNFR/assets/110092013/328856ec-1a8e-41a3-989b-bba42644bedc" width="170" height="70" alt="image">
 
 ## Backend
-
-<a href="https://fastapi.tiangolo.com/">
-  <img src="https://github.com/KienVNFR/KienVNFR/assets/110092013/6ffad9f8-c4e0-4435-b9e8-423d04ac10ed" width="170" height="70" alt="image">
-</a> 
-<a href="https://xgboost.readthedocs.io/en/stable/">
-  <img src="https://github.com/KienVNFR/KienVNFR/assets/110092013/50127fe0-8d53-4402-a86f-abd3fad09baf" width="170" height="70" alt="image">
-</a>
-<a href="https://grpc.io/">
-  <img src="https://github.com/KienVNFR/KienVNFR/assets/110092013/63ac3bc3-cd74-434a-8e0e-c4657c01ee6d" width="170" height="70" alt="image">
-</a> 
-
+- [<img src="https://github.com/KienVNFR/KienVNFR/assets/110092013/74531bfc-ae6e-417f-9b53-108dc948cec9" width="30" height="30" alt="SK">](https://fastapi.tiangolo.com/) __FastAPI__
+- [<img src="https://github.com/KienVNFR/KienVNFR/assets/110092013/b9a8377f-3083-404c-bf9b-12d5b79b5b73" width="30" height="30" alt="SK">](https://prometheus.io/) __RESTAPI__
+- [<img src="https://github.com/KienVNFR/KienVNFR/assets/110092013/8b4bc84f-b295-40eb-a6b4-94e713db736c" width="30" height="30" alt="SK">](https://prometheus.io/) __GRPC__
 ## Embedded  
+- [<img src="https://github.com/KienVNFR/KienVNFR/assets/110092013/fcd07145-8a83-4a40-985c-0bf41b66abab" width="30" height="30" alt="SK">](https://prometheus.io/) __Zigbee__
+- [<img src="https://github.com/KienVNFR/KienVNFR/assets/110092013/07eebdb9-d211-4a9d-8df4-a83c7b77d7d8" width="30" height="30" alt="SK">](https://prometheus.io/) __STMcube__
+- [<img src="https://github.com/KienVNFR/KienVNFR/assets/110092013/e310d239-99fd-4db1-a190-7859c149bf4c" width="30" height="30" alt="SK">](https://prometheus.io/) __LoRaWan__
 
-<a href="https://xgboost.readthedocs.io/en/stable/">
-  <img src="https://github.com/KienVNFR/KienVNFR/assets/110092013/edf1b6c7-5d0e-400e-ac3e-3fce430bfae9" width="170" height="70" alt="image">
-</a> 
-<a href="https://xgboost.readthedocs.io/en/stable/">
-  <img src="https://github.com/KienVNFR/KienVNFR/assets/110092013/b771f910-473b-4fda-9b05-22d4a03159f3" width="170" height="70" alt="image">
-</a> 
-<a href="https://xgboost.readthedocs.io/en/stable/">
-  <img src="https://github.com/KienVNFR/KienVNFR/assets/110092013/db4ba5ca-f7ba-4b85-a2b8-8cf22d290320" width="170" height="70" alt="image">
-</a> 
 
 <!--
 **KienVNFR/KienVNFR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
