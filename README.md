@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Kien 
-## I'm currently studying at IP Paris France for Master 1 I'm an Engineer in AI, Backend, DevOps  
+## I'm currently studying at IP Paris France for Master 1 an Engineer in AI, Backend, DevOps  
 
 ## My interest: 
 - <img src="https://github.com/KienVNFR/KienVNFR/assets/110092013/e6328f3a-4dbd-4d55-abfe-7226621de7fb" width="30" height="30" alt="image"> __Machine Learning__
