@@ -2,7 +2,7 @@
 I'm currently studying at IP Paris France for Master 1 I'm an Engineer in AI, Backend, DevOps  
 
 My interest: 
-![image](https://github.com/KienVNFR/KienVNFR/assets/110092013/336c46eb-ee4a-4165-92f6-7c4a8c078661) Machine learning 
+![image](https://github.com/KienVNFR/KienVNFR/assets/110092013/336c46eb-ee4a-4165-92f6-7c4a8c078661=24x24) Machine learning 
 Deep Learning 
 Optimization and Quantization Model 
 System computing 
