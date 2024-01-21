@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Kien 
+I'm currently studying at IP Paris France for Master 1 I'm an Engineer in AI, Backend, DevOps  
+
+My interest: 
+<img src="{<i class="fa-sharp fa-regular fa-head-side-gear"></i>}" /> Machine learning 
+Deep Learning 
+Optimization and Quantization Model 
+System computing 
+
+My Experiment 
+
 
 <!--
 **KienVNFR/KienVNFR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
