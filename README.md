@@ -20,7 +20,7 @@
 - [<img src="https://github.com/KienVNFR/KienVNFR/assets/110092013/39cf3a70-425b-49d8-b805-faca0ab3c1e3" width="30" height="30" alt="ONNX">](https://onnx.ai/) __ONNX__
 - [<img src="https://github.com/KienVNFR/KienVNFR/assets/110092013/f14b954c-efc1-4857-9064-d68556e1e8a5" width="30" height="30" alt="Triton Inference server">](https://github.com/triton-inference-server/server) __Triton Inference server__
 - [<img src="https://github.com/KienVNFR/KienVNFR/assets/110092013/f85489f5-5af0-4706-a2a0-0c3fef1a12fa" width="30" height="30" alt="Pytorch">](https://pytorch.org/) __Pytorch__
-- [<img src="https://github.com/KienVNFR/KienVNFR/assets/110092013/d136a0c4-c9c4-450b-89f9-7e8ef1e1b471" width="30" height="30" alt="Pytorch">](https://developer.nvidia.com/tensorrt) __TensoRT__
+- [<img src="https://github.com/KienVNFR/KienVNFR/assets/110092013/d136a0c4-c9c4-450b-89f9-7e8ef1e1b471" width="30" height="30" alt="Pytorch">](https://developer.nvidia.com/tensorrt) __TensorRT__
 - [<img src="https://github.com/KienVNFR/KienVNFR/assets/110092013/00f0f462-d386-4a12-ab67-8db5c29990c8" width="30" height="30" alt="SK">](https://scikit-learn.org/stable/) __SKlearn__
 - [<img src="https://github.com/KienVNFR/KienVNFR/assets/110092013/2b21a945-84df-4969-b84b-489c93d30e42" width="30" height="30" alt="SK">](https://xgboost.readthedocs.io/en/stable/) __XGboost__
 - [<img src="https://github.com/KienVNFR/KienVNFR/assets/110092013/3c3e5eb7-c4a2-4ea8-a42f-90a1d5b55984" width="30" height="30" alt="SK">](https://github.com/kserve/kserve) __Kserver__
